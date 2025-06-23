@@ -24,7 +24,7 @@ body {
     align-items: center;
 }
 
-.container {
+.card {
     width: 340px;
     height: 520px;
     padding: 1rem;
